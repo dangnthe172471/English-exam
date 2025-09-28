@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\A\\Git\\English-Exam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D6FE5EF-E941-480E-8042-E31B73946BEE}|ProjectPRN\\ProjectPRN.csproj|d:\\a\\git\\english-exam\\projectprn\\models\\projectprncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6FE5EF-E941-480E-8042-E31B73946BEE}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\projectprncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D6FE5EF-E941-480E-8042-E31B73946BEE}|ProjectPRN\\ProjectPRN.csproj|d:\\a\\git\\english-exam\\projectprn\\frmregiser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D6FE5EF-E941-480E-8042-E31B73946BEE}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\frmregiser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,6 +51,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProjectPrnContext.cs",
+              "DocumentMoniker": "D:\\A\\Git\\English-Exam\\ProjectPRN\\Models\\ProjectPrnContext.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Models\\ProjectPrnContext.cs",
+              "ToolTip": "D:\\A\\Git\\English-Exam\\ProjectPRN\\Models\\ProjectPrnContext.cs",
+              "RelativeToolTip": "ProjectPRN\\Models\\ProjectPrnContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:47:26.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FrmRegiser.xaml.cs",
               "DocumentMoniker": "D:\\A\\Git\\English-Exam\\ProjectPRN\\FrmRegiser.xaml.cs",
               "RelativeDocumentMoniker": "ProjectPRN\\FrmRegiser.xaml.cs",
@@ -59,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FrmUser.xaml.cs",
               "DocumentMoniker": "D:\\A\\Git\\English-Exam\\ProjectPRN\\FrmUser.xaml.cs",
               "RelativeDocumentMoniker": "ProjectPRN\\FrmUser.xaml.cs",
@@ -71,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FrmExam.xaml.cs",
               "DocumentMoniker": "D:\\A\\Git\\English-Exam\\ProjectPRN\\FrmExam.xaml.cs",
               "RelativeDocumentMoniker": "ProjectPRN\\FrmExam.xaml.cs",
@@ -83,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmUser.xaml",
               "DocumentMoniker": "D:\\A\\Git\\English-Exam\\ProjectPRN\\FrmUser.xaml",
               "RelativeDocumentMoniker": "ProjectPRN\\FrmUser.xaml",
@@ -94,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FrmExamResults.xaml.cs",
               "DocumentMoniker": "D:\\A\\Git\\English-Exam\\ProjectPRN\\FrmExamResults.xaml.cs",
               "RelativeDocumentMoniker": "ProjectPRN\\FrmExamResults.xaml.cs",
@@ -106,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FrmExamResults.xaml",
               "DocumentMoniker": "D:\\A\\Git\\English-Exam\\ProjectPRN\\FrmExamResults.xaml",
               "RelativeDocumentMoniker": "ProjectPRN\\FrmExamResults.xaml",
@@ -117,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FrmExam.xaml",
               "DocumentMoniker": "D:\\A\\Git\\English-Exam\\ProjectPRN\\FrmExam.xaml",
               "RelativeDocumentMoniker": "ProjectPRN\\FrmExam.xaml",
@@ -128,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FrmDoExam.xaml.cs",
               "DocumentMoniker": "D:\\A\\Git\\English-Exam\\ProjectPRN\\FrmDoExam.xaml.cs",
               "RelativeDocumentMoniker": "ProjectPRN\\FrmDoExam.xaml.cs",
